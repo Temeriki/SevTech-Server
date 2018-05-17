@@ -1,0 +1,1874 @@
+[18:11:10] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 356 advancements
+[18:11:12] [Server thread/INFO] [FML]: Loading dimension 20 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:14] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for betweenlands was read successfully.
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 20
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:14] [Server thread/INFO] [FML]: Loading dimension 28885 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:14] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for hunting_dim was read successfully.
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 28885
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:14] [Server thread/INFO] [FML]: Loading dimension 10 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:14] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for the_beneath was read successfully.
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 10
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:14] [Server thread/INFO] [FML]: Loading dimension 7 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:14] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for twilight_forest was read successfully.
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 7
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:14] [Server thread/INFO] [FML]: Loading dimension 53 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:14] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for the_dark_realm was read successfully.
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 53
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:14] [Server thread/INFO] [FML]: Loading dimension 144 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:14] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for compactmachines was read successfully.
+[18:11:14] [Server thread/INFO] [compactmachines3]: Loading saved data for machine world
+[18:11:14] [Server thread/INFO] [compactmachines3]:  > 0 spawn points
+[18:11:14] [Server thread/INFO] [compactmachines3]:  > Next machine id: 0
+[18:11:14] [Server thread/INFO] [compactmachines3]:  > Players with beds in CM dimension: 0
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 144
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:14] [Server thread/INFO] [FML]: Loading dimension 52 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:14] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for omothol was read successfully.
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 52
+[18:11:14] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:17] [Server thread/INFO] [FML]: Loading dimension -1 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:17] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for nether was read successfully.
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension -1
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:17] [Server thread/INFO] [FML]: Loading dimension 51 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:17] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for the_dreadlands was read successfully.
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 51
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:17] [Server thread/INFO] [FML]: Loading dimension 50 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:17] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for the_abyssal_wasteland was read successfully.
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 50
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:17] [Server thread/INFO] [FML]: Loading dimension 2 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:17] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for storage_cell was read successfully.
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 2
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:17] [Server thread/INFO] [FML]: Loading dimension 1 (Buttslol) (net.minecraft.server.dedicated.DedicatedServer@64e31408)
+[18:11:17] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for the_end was read successfully.
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 1
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:17] [Server thread/INFO] [NetherEx|PigtificateVillageManager]: The Pigtificate Village data for overworld was read successfully.
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] Checking GatewayCache integrity for dimension 0
+[18:11:17] [Server thread/INFO] [Astral Sorcery]: [AstralSorcery] GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[18:11:17] [Server thread/INFO] [antiqueatlas]: Visited Village in dimension 0 at [3, 8]
+[18:11:17] [Server thread/INFO] [antiqueatlas]: Visited Village in dimension 0 at [32, 54]
+[18:11:17] [Server thread/INFO] [antiqueatlas]: Visited Village in dimension 0 at [-22, 6]
+[18:11:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[18:11:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[18:11:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 2%
+[18:11:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 13%
+[18:11:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 39%
+[18:11:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 70%
+[18:11:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (37.704s)! For help, type "help" or "?"
+[18:11:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting GS4 status listener
+[18:11:27] [Query Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Query running on 0.0.0.0:4269
+[18:11:27] [Server Watchdog/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: java.lang.IllegalArgumentException: timeout value is negative
+[18:11:27] [Server Watchdog/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.Thread.sleep(Native Method)
+[18:11:27] [Server Watchdog/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:83)
+[18:11:27] [Server Watchdog/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.Thread.run(Unknown Source)
+[18:11:29] [Server thread/INFO] [immersiveengineering]: Arc Recycling: Removed 0 old recipes
+[18:11:29] [Thread-12/INFO] [immersiveengineering]: Starting recipe profiler for Arc Recycling, using 4 Threads
+[18:11:29] [Thread-12/INFO] [immersiveengineering]: Finished recipe profiler for Arc Recycling, took 25 milliseconds
+[18:11:29] [Server thread/ERROR] [betterwithmods]: 1 - Test 'testRecipeAddition' - failed: java.lang.NoClassDefFoundError: org/fest/assertions/Assertions
+[18:11:29] [Server thread/ERROR] [betterwithmods]: 2 - Test 'testRecipeRemoval' - failed: java.lang.NoClassDefFoundError: org/fest/assertions/Assertions
+[18:11:29] [Server thread/WARN] [betterwithmods]: Result CookingPotTests : Total : 2, Passed: 0, Failed 2
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -20
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -21
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -15
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -22
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -13
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -18
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -19
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -16
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -17
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -31
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -37
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -35
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -34
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -38
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -43
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -32
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -41
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -33
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -39
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -40
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -42
+[18:11:29] [Server thread/INFO] [Galacticraft]: Registered Dimension: -36
+[18:11:32] [Server thread/INFO] [Prestige]: Successfully loaded data for 2f8cda56-9e52-465f-b431-d0f112595351. Confirmed: 0 Unlocked: 0
+[18:11:32] [Server thread/INFO] [Prestige]: Successfully loaded data for d4c81acc-d591-41e7-b027-7bdfda0f67dd. Confirmed: 0 Unlocked: 0
+[18:11:34] [Server thread/INFO] [Actually Additions]: Successfully loaded WorldData!
+[18:11:34] [Server thread/INFO] [immersiveengineering]: WorldData loading
+[18:11:34] [Server thread/INFO] [immersiveengineering]: WorldData retrieved
+[18:11:34] [Server thread/INFO] [triumph]: Loading Custom Functions
+[18:11:34] [Server thread/INFO] [net.minecraft.advancements.FunctionManager]: Loaded 13 custom command functions
+[18:11:38] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+[18:11:38] [Server thread/INFO] [FML]: Unloading dimension 28885
+[18:11:38] [Server thread/INFO] [FML]: Unloading dimension 10
+[18:11:38] [Server thread/INFO] [FML]: Unloading dimension 7
+[18:11:38] [Server thread/INFO] [FML]: Unloading dimension 53
+[18:11:38] [Server thread/INFO] [FML]: Unloading dimension 144
+[18:11:41] [Server thread/INFO] [FML]: Unloading dimension 52
+[18:11:41] [Server thread/INFO] [FML]: Unloading dimension 51
+[18:11:41] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:11:41] [Server thread/INFO] [FML]: Unloading dimension 50
+[18:11:41] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:11:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6753ms behind, skipping 135 tick(s)
+[18:12:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8960ms behind, skipping 179 tick(s)
+[18:12:32] [Server thread/INFO] [FML]: Unloading dimension 20
+[18:12:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2497ms behind, skipping 49 tick(s)
+[18:15:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2669ms behind, skipping 53 tick(s)
+[18:16:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2650ms behind, skipping 53 tick(s)
+[18:16:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2684ms behind, skipping 53 tick(s)
+[18:17:32] [LagSpikeProfiler/INFO] [TickProfiler]: 
+Running LagSpikeProfiler for 500 seconds
+[18:17:34] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.5102917s ago."Server thread" TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:528)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:17:38] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3199712s ago."Server thread" RUNNABLE
+	at java.util.stream.AbstractPipeline.wrapSink(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.initPartialTraversalState(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+	at com.google.common.collect.ImmutableCollection$Builder.addAll(ImmutableCollection.java:436)
+	at com.google.common.collect.ImmutableSet$Builder.addAll(ImmutableSet.java:534)
+	at net.minecraftforge.common.ForgeChunkManager.getPersistentChunksIterableFor(ForgeChunkManager.java:146)
+	at net.minecraft.world.World.getPersistentChunkIterable(World.java:3928)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:391)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:17:41] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3436685s ago."Server thread" RUNNABLE
+	at java.util.TreeMap.getEntry(Unknown Source)
+	at java.util.TreeMap.get(Unknown Source)
+	at net.minecraft.world.GameRules.func_82766_b(SourceFile:87)
+	at net.minecraft.world.World.updateWeatherBody(World.java:2570)
+	at net.minecraft.world.WorldProvider.updateWeather(WorldProvider.java:503)
+	at net.minecraft.world.World.func_72979_l(World.java:2561)
+	at net.minecraft.world.WorldServer.func_72979_l(WorldServer.java:1236)
+	at net.minecraft.world.World.func_72835_b(World.java:2538)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:179)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:17:45] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.309597s ago."Server thread" RUNNABLE
+	at java.util.AbstractCollection.toArray(Unknown Source)
+	at java.util.ArrayList.<init>(Unknown Source)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:149)
+	at net.minecraft.world.WorldEntitySpawner.func_77192_a(WorldEntitySpawner.java:87)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:203)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:17:48] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3353405s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:17:53] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3259593s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1829_TickHandlerServer_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:17:56] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.341689s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1829_TickHandlerServer_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:00] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3349819s ago."Server thread" RUNNABLE
+	at net.minecraft.world.World.func_72935_r(World.java:917)
+	at net.minecraft.village.VillageSiege.func_75528_a(SourceFile:42)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:230)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:05] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.4420403s ago."Server thread" RUNNABLE
+	at java.util.AbstractCollection.toArray(Unknown Source)
+	at java.util.Collections$SynchronizedCollection.toArray(Unknown Source)
+	at betterwithaddons.handler.HardcorePackingHandler.hardcorePackingCompress(HardcorePackingHandler.java:38)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_833_HardcorePackingHandler_hardcorePackingCompress_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:10] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3852136s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:15] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3697641s ago."Server thread" RUNNABLE
+	at net.minecraft.world.World.func_72820_D(World.java:3502)
+	at net.quetzi.morpheus.helpers.MorpheusEventHandler.worldTickEvent(MorpheusEventHandler.java:72)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1849_MorpheusEventHandler_worldTickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:21] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3587867s ago."Server thread" RUNNABLE
+	at net.minecraft.entity.EnumCreatureType.values(SourceFile:9)
+	at net.minecraft.world.WorldEntitySpawner.func_77192_a(WorldEntitySpawner.java:78)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:203)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:25] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3518928s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPostWorldTick(FMLCommonHandler.java:273)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:774)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:28] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3440806s ago."Server thread" RUNNABLE
+	at java.util.Spliterators$IteratorSpliterator.estimateSize(Unknown Source)
+	at java.util.Spliterator.getExactSizeIfKnown(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+	at com.google.common.collect.ImmutableCollection$Builder.addAll(ImmutableCollection.java:436)
+	at com.google.common.collect.ImmutableSet$Builder.addAll(ImmutableSet.java:534)
+	at net.minecraftforge.common.ForgeChunkManager.getPersistentChunksIterableFor(ForgeChunkManager.java:146)
+	at net.minecraft.world.World.getPersistentChunkIterable(World.java:3928)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:391)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:32] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3140041s ago."Server thread" RUNNABLE
+	at net.minecraft.nbt.NBTTagCompound.func_74771_c(NBTTagCompound.java:193)
+	at net.minecraft.nbt.NBTTagCompound.func_74767_n(NBTTagCompound.java:385)
+	at codechicken.nei.NEIServerConfig.isActionDisabled(NEIServerConfig.java:163)
+	at codechicken.nei.util.NEIServerUtils.advanceDisabledTimes(NEIServerUtils.java:117)
+	at codechicken.nei.ServerHandler.processDisabledProperties(ServerHandler.java:36)
+	at codechicken.nei.ServerHandler.tickEvent(ServerHandler.java:24)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1654_ServerHandler_tickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:36] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3418088s ago."Server thread" RUNNABLE
+	at java.util.LinkedList.addAll(Unknown Source)
+	at java.util.LinkedList.addAll(Unknown Source)
+	at betterwithaddons.handler.EggIncubationHandler.handleEggs(EggIncubationHandler.java:70)
+	at betterwithaddons.handler.EggIncubationHandler.worldTick(EggIncubationHandler.java:51)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_835_EggIncubationHandler_worldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:39] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.315078s ago."Server thread" RUNNABLE
+	at java.util.AbstractCollection.toArray(Unknown Source)
+	at java.util.ArrayList.<init>(Unknown Source)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:149)
+	at net.minecraft.world.WorldEntitySpawner.func_77192_a(WorldEntitySpawner.java:87)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:203)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:43] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3241855s ago."Server thread" RUNNABLE
+	at com.google.common.collect.Lists.newArrayList(Lists.java:148)
+	at net.minecraft.world.WorldEntitySpawner.func_77192_a(WorldEntitySpawner.java:87)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:203)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:46] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3409137s ago."Server thread" RUNNABLE
+	at com.google.common.collect.Lists.newArrayList(Lists.java:148)
+	at net.minecraft.world.WorldEntitySpawner.func_77192_a(WorldEntitySpawner.java:87)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:203)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:53] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3607862s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:86)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:18:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2645ms behind, skipping 52 tick(s)
+[18:18:58] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3252137s ago."Server thread" RUNNABLE
+	at java.util.stream.ReferencePipeline.wrap(Unknown Source)
+	at java.util.stream.AbstractPipeline.spliterator(Unknown Source)
+	at java.util.stream.ReferencePipeline.iterator(Unknown Source)
+	at net.minecraftforge.common.ForgeChunkManager.getPersistentChunksIterableFor(ForgeChunkManager.java:146)
+	at net.minecraft.world.World.getPersistentChunkIterable(World.java:3928)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:391)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:01] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.34682s ago."Server thread" RUNNABLE
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap$MapIterator.<init>(Long2ObjectOpenHashMap.java:590)
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap$ValueIterator.<init>(Long2ObjectOpenHashMap.java:872)
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap$1.iterator(Long2ObjectOpenHashMap.java:883)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73240_a(ChunkProviderServer.java:63)
+	at net.minecraft.server.management.PlayerChunkMap.func_72693_b(SourceFile:177)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:227)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:06] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3513526s ago."Server thread" RUNNABLE
+	at java.util.Hashtable.containsKey(Unknown Source)
+	at net.minecraft.server.dedicated.PropertyManager.func_73671_a(SourceFile:70)
+	at net.minecraft.server.dedicated.PropertyManager.func_73670_a(SourceFile:100)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71255_r(DedicatedServer.java:402)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:734)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:10] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3211789s ago."Server thread" RUNNABLE
+	at java.util.stream.AbstractPipeline.wrapSink(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.initPartialTraversalState(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+	at com.google.common.collect.ImmutableCollection$Builder.addAll(ImmutableCollection.java:436)
+	at com.google.common.collect.ImmutableSet$Builder.addAll(ImmutableSet.java:534)
+	at net.minecraftforge.common.ForgeChunkManager.getPersistentChunksIterableFor(ForgeChunkManager.java:146)
+	at net.minecraft.world.World.getPersistentChunkIterable(World.java:3928)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:391)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:13] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3354294s ago."Server thread" RUNNABLE
+	at codechicken.lib.world.WorldExtensionManager.access$600(WorldExtensionManager.java:20)
+	at codechicken.lib.world.WorldExtensionManager$WorldExtensionEventHandler.serverTick(WorldExtensionManager.java:138)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1839_WorldExtensionEventHandler_serverTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:18] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3574874s ago."Server thread" RUNNABLE
+	at java.util.ArrayList.removeAll(Unknown Source)
+	at com.buuz135.armoreablemobs.ArmoreableMobs.onServerTick(ArmoreableMobs.java:97)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1481_ArmoreableMobs_onServerTick_ServerTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreServerTick(FMLCommonHandler.java:278)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:655)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:23] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3572071s ago."Server thread" RUNNABLE
+	at buildcraft.transport.BCTransportEventDist.onWorldTick(BCTransportEventDist.java:26)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_869_BCTransportEventDist_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:27] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3412167s ago."Server thread" RUNNABLE
+	at java.util.stream.Sink$ChainedReference.cancellationRequested(Unknown Source)
+	at java.util.stream.Sink$ChainedReference.cancellationRequested(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.fillBuffer(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+	at com.google.common.collect.ImmutableCollection$Builder.addAll(ImmutableCollection.java:436)
+	at com.google.common.collect.ImmutableSet$Builder.addAll(ImmutableSet.java:534)
+	at net.minecraftforge.common.ForgeChunkManager.getPersistentChunksIterableFor(ForgeChunkManager.java:146)
+	at net.minecraft.world.World.getPersistentChunkIterable(World.java:3928)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:391)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:30] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3532382s ago."Server thread" RUNNABLE
+	at com.tmtravlr.jaff.JAFFEventHandler.onWorldTick(JAFFEventHandler.java:73)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1647_JAFFEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:34] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3050544s ago."Server thread" RUNNABLE
+	at java.util.Collections$UnmodifiableCollection.contains(Unknown Source)
+	at java.util.stream.ReduceOps$3.getOpFlags(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.collect(Unknown Source)
+	at betterwithmods.event.BlastingOilEvent.onHitGround(BlastingOilEvent.java:62)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_91_BlastingOilEvent_onHitGround_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPostWorldTick(FMLCommonHandler.java:273)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:774)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:39] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3151859s ago."Server thread" RUNNABLE
+	at com.tmtravlr.jaff.JAFFEventHandler.onWorldTick(JAFFEventHandler.java:73)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1647_JAFFEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:43] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3200531s ago."Server thread" RUNNABLE
+	at java.util.WeakHashMap.getTable(Unknown Source)
+	at java.util.WeakHashMap.get(Unknown Source)
+	at appeng.hooks.TickHandler.onTick(TickHandler.java:237)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1477_TickHandler_onTick_TickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:46] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3289272s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:51] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3397247s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:19:55] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3559542s ago."Server thread" RUNNABLE
+	at java.util.AbstractCollection.isEmpty(Unknown Source)
+	at net.minecraft.server.management.PlayerChunkMap.func_72693_b(SourceFile:139)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:227)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:02] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.337964s ago."Server thread" RUNNABLE
+	at codechicken.nei.ServerHandler.tickEvent(ServerHandler.java:22)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1654_ServerHandler_tickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4055ms behind, skipping 81 tick(s)
+[18:20:06] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3473438s ago."Server thread" RUNNABLE
+	at java.util.TreeMap.getEntry(Unknown Source)
+	at java.util.TreeMap.get(Unknown Source)
+	at net.minecraft.world.GameRules.func_82766_b(SourceFile:87)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:201)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:11] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3313707s ago."Server thread" RUNNABLE
+	at net.minecraft.nbt.NBTTagCompound.func_74771_c(NBTTagCompound.java:193)
+	at net.minecraft.nbt.NBTTagCompound.func_74767_n(NBTTagCompound.java:385)
+	at codechicken.nei.NEIServerConfig.isActionDisabled(NEIServerConfig.java:163)
+	at codechicken.nei.util.NEIServerUtils.advanceDisabledTimes(NEIServerUtils.java:117)
+	at codechicken.nei.ServerHandler.processDisabledProperties(ServerHandler.java:36)
+	at codechicken.nei.ServerHandler.tickEvent(ServerHandler.java:24)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1654_ServerHandler_tickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:14] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.34733s ago."Server thread" RUNNABLE
+	at net.minecraft.world.World.func_72867_j(World.java:3606)
+	at net.minecraft.world.World.func_72896_J(World.java:3623)
+	at net.minecraft.world.WorldServer.func_72979_l(WorldServer.java:1235)
+	at net.minecraft.world.World.func_72835_b(World.java:2538)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:179)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:19] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.34673s ago."Server thread" RUNNABLE
+	at java.util.AbstractCollection.toArray(Unknown Source)
+	at java.util.ArrayList.<init>(Unknown Source)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:149)
+	at net.minecraft.world.WorldEntitySpawner.func_77192_a(WorldEntitySpawner.java:87)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:203)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:28] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3763403s ago."Server thread" RUNNABLE
+	at java.util.Hashtable.get(Unknown Source)
+	at java.util.Properties.getProperty(Unknown Source)
+	at java.util.Properties.getProperty(Unknown Source)
+	at net.minecraft.server.dedicated.PropertyManager.func_73671_a(SourceFile:75)
+	at net.minecraft.server.dedicated.PropertyManager.func_73670_a(SourceFile:100)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71255_r(DedicatedServer.java:402)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:734)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3959ms behind, skipping 79 tick(s)
+[18:20:33] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3587147s ago."Server thread" RUNNABLE
+	at java.util.Spliterator.getExactSizeIfKnown(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.collect(Unknown Source)
+	at betterwithmods.event.BlastingOilEvent.onHitGround(BlastingOilEvent.java:62)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_91_BlastingOilEvent_onHitGround_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:37] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3353122s ago."Server thread" RUNNABLE
+	at codechicken.nei.NEIServerConfig.isActionDisabled(NEIServerConfig.java:163)
+	at codechicken.nei.ServerHandler.processDisabledProperties(ServerHandler.java:37)
+	at codechicken.nei.ServerHandler.tickEvent(ServerHandler.java:24)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1654_ServerHandler_tickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:43] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3562342s ago."Server thread" RUNNABLE
+	at me.desht.pneumaticcraft.common.semiblock.SemiBlockManager.onWorldTick(SemiBlockManager.java:260)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1677_SemiBlockManager_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2658ms behind, skipping 53 tick(s)
+[18:20:48] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3082529s ago."Server thread" RUNNABLE
+	at net.minecraft.entity.EnumCreatureType.values(SourceFile:9)
+	at net.minecraft.world.WorldEntitySpawner.func_77192_a(WorldEntitySpawner.java:78)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:203)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:53] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3249652s ago."Server thread" RUNNABLE
+	at java.util.TreeMap.getEntry(Unknown Source)
+	at java.util.TreeMap.get(Unknown Source)
+	at net.minecraft.world.GameRules.func_82766_b(SourceFile:87)
+	at net.minecraft.world.World.updateWeatherBody(World.java:2570)
+	at net.minecraft.world.WorldProvider.updateWeather(WorldProvider.java:503)
+	at net.minecraft.world.World.func_72979_l(World.java:2561)
+	at net.minecraft.world.WorldServer.func_72979_l(WorldServer.java:1236)
+	at net.minecraft.world.World.func_72835_b(World.java:2538)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:179)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:20:59] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3578274s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1819_TickHandlerWorldRetrogen_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:04] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3322463s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:09] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.331643s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:13] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3374789s ago."Server thread" RUNNABLE
+	at net.minecraft.world.World.func_72867_j(World.java:3606)
+	at net.minecraft.world.World.func_72896_J(World.java:3623)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:387)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:17] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3070691s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:22] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3188047s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1829_TickHandlerServer_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:27] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.325392s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPostWorldTick(FMLCommonHandler.java:273)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:774)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:30] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3286506s ago."Server thread" RUNNABLE
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:186)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:34] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3325099s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1829_TickHandlerServer_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:39] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3374277s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:44] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3259394s ago."Server thread" RUNNABLE
+	at java.util.AbstractCollection.toArray(Unknown Source)
+	at java.util.Collections$SynchronizedCollection.toArray(Unknown Source)
+	at betterwithaddons.handler.HardcorePackingHandler.hardcorePackingCompress(HardcorePackingHandler.java:38)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_833_HardcorePackingHandler_hardcorePackingCompress_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:49] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3313099s ago."Server thread" RUNNABLE
+	at hellfirepvp.astralsorcery.common.auxiliary.tick.TickManager.worldTick(TickManager.java:55)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1519_TickManager_worldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:52] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3832861s ago."Server thread" RUNNABLE
+	at com.tmtravlr.jaff.JAFFEventHandler.onWorldTick(JAFFEventHandler.java:73)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1647_JAFFEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:21:58] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3589207s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:03] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.4384651s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:86)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:07] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.4735236s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:10] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3891113s ago."Server thread" RUNNABLE
+	at java.util.Spliterators$IteratorSpliterator.estimateSize(Unknown Source)
+	at java.util.Spliterator.getExactSizeIfKnown(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+	at com.google.common.collect.ImmutableCollection$Builder.addAll(ImmutableCollection.java:436)
+	at com.google.common.collect.ImmutableSet$Builder.addAll(ImmutableSet.java:534)
+	at net.minecraftforge.common.ForgeChunkManager.getPersistentChunksIterableFor(ForgeChunkManager.java:146)
+	at net.minecraft.world.World.getPersistentChunkIterable(World.java:3928)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:391)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:18] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3530064s ago."Server thread" RUNNABLE
+	at com.tmtravlr.jaff.JAFFEventHandler.onWorldTick(JAFFEventHandler.java:73)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1647_JAFFEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3982ms behind, skipping 79 tick(s)
+[18:22:23] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3080059s ago."Server thread" RUNNABLE
+	at hellfirepvp.astralsorcery.common.auxiliary.tick.TickManager.worldTick(TickManager.java:55)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1519_TickManager_worldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:28] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3177235s ago."Server thread" RUNNABLE
+	at net.minecraft.world.biome.BiomeProvider.func_76938_b(BiomeProvider.java:209)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:186)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:33] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3470074s ago."Server thread" RUNNABLE
+	at java.util.stream.Sink$ChainedReference.end(Unknown Source)
+	at java.util.stream.Sink$ChainedReference.end(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.collect(Unknown Source)
+	at betterwithmods.event.BlastingOilEvent.onHitGround(BlastingOilEvent.java:62)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_91_BlastingOilEvent_onHitGround_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:36] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3049625s ago."Server thread" RUNNABLE
+	at com.google.common.collect.Maps.newLinkedHashMap(Maps.java:351)
+	at net.minecraftforge.event.AttachCapabilitiesEvent.<init>(AttachCapabilitiesEvent.java:41)
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:639)
+	at net.minecraft.item.ItemStack.forgeInit(ItemStack.java:1216)
+	at net.minecraft.item.ItemStack.<init>(ItemStack.java:112)
+	at net.minecraft.item.ItemStack.<init>(ItemStack.java:98)
+	at betterwithmods.common.items.ItemMaterial.getMaterial(ItemMaterial.java:56)
+	at betterwithmods.common.items.ItemMaterial.getMaterial(ItemMaterial.java:52)
+	at betterwithmods.event.BlastingOilEvent.lambda$onHitGround$0(BlastingOilEvent.java:62)
+	at betterwithmods.event.BlastingOilEvent$$Lambda$3179/660155750.test(Unknown Source)
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.collect(Unknown Source)
+	at betterwithmods.event.BlastingOilEvent.onHitGround(BlastingOilEvent.java:62)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_91_BlastingOilEvent_onHitGround_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:41] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3113239s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:45] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3059847s ago."Server thread" RUNNABLE
+	at java.util.stream.Sink$ChainedReference.cancellationRequested(Unknown Source)
+	at java.util.stream.Sink$ChainedReference.cancellationRequested(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.fillBuffer(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+	at com.google.common.collect.ImmutableCollection$Builder.addAll(ImmutableCollection.java:436)
+	at com.google.common.collect.ImmutableSet$Builder.addAll(ImmutableSet.java:534)
+	at net.minecraftforge.common.ForgeChunkManager.getPersistentChunksIterableFor(ForgeChunkManager.java:146)
+	at net.minecraft.world.World.getPersistentChunkIterable(World.java:3928)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:391)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:52] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3097627s ago."Server thread" RUNNABLE
+	at net.minecraft.nbt.NBTTagCompound.func_74771_c(NBTTagCompound.java:193)
+	at net.minecraft.nbt.NBTTagCompound.func_74767_n(NBTTagCompound.java:385)
+	at codechicken.nei.NEIServerConfig.isActionDisabled(NEIServerConfig.java:163)
+	at codechicken.nei.ServerHandler.processDisabledProperties(ServerHandler.java:37)
+	at codechicken.nei.ServerHandler.tickEvent(ServerHandler.java:24)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1654_ServerHandler_tickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:22:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3972ms behind, skipping 79 tick(s)
+[18:22:59] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.419112s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:23:04] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3925793s ago."Server thread" RUNNABLE
+	at com.tmtravlr.jaff.JAFFEventHandler.onWorldTick(JAFFEventHandler.java:73)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1647_JAFFEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:23:08] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.4050734s ago."Server thread" RUNNABLE
+	at java.util.TreeMap.getEntry(Unknown Source)
+	at java.util.TreeMap.get(Unknown Source)
+	at net.minecraft.world.GameRules.func_82766_b(SourceFile:87)
+	at com.tmtravlr.jaff.JAFFEventHandler.onWorldTick(JAFFEventHandler.java:72)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1647_JAFFEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPostWorldTick(FMLCommonHandler.java:273)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:774)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:23:13] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3978579s ago."Server thread" RUNNABLE
+	at java.util.TreeMap.getEntry(Unknown Source)
+	at java.util.TreeMap.get(Unknown Source)
+	at net.minecraft.world.GameRules.func_82766_b(SourceFile:87)
+	at net.minecraft.world.World.updateWeatherBody(World.java:2570)
+	at net.minecraft.world.WorldProvider.updateWeather(WorldProvider.java:503)
+	at net.minecraft.world.World.func_72979_l(World.java:2561)
+	at net.minecraft.world.WorldServer.func_72979_l(WorldServer.java:1236)
+	at net.minecraft.world.World.func_72835_b(World.java:2538)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:179)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:23:17] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3454825s ago."Server thread" RUNNABLE
+	at reborncore.common.multiblock.MultiblockServerTickHandler.onWorldTick(MultiblockServerTickHandler.java:47)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1771_MultiblockServerTickHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:23:24] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3108886s ago."Server thread" RUNNABLE
+	at hellfirepvp.astralsorcery.common.auxiliary.tick.TickManager.worldTick(TickManager.java:55)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1519_TickManager_worldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:23:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2653ms behind, skipping 53 tick(s)
+[18:23:29] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.322485s ago."Server thread" RUNNABLE
+	at codechicken.nei.NEIServerConfig.isActionDisabled(NEIServerConfig.java:163)
+	at codechicken.nei.ServerHandler.processDisabledProperties(ServerHandler.java:37)
+	at codechicken.nei.ServerHandler.tickEvent(ServerHandler.java:24)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1654_ServerHandler_tickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:23:35] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3153603s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:23:40] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3194517s ago."Server thread" RUNNABLE
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.forEach(Unknown Source)
+	at buildcraft.core.marker.volume.WorldSavedDataVolumeBoxes.tick(WorldSavedDataVolumeBoxes.java:65)
+	at buildcraft.core.BCCoreEventDist.onWorldTick(BCCoreEventDist.java:28)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_864_BCCoreEventDist_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:23:49] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.331401s ago."Server thread" RUNNABLE
+	at java.util.WeakHashMap.getTable(Unknown Source)
+	at java.util.WeakHashMap.getEntry(Unknown Source)
+	at java.util.WeakHashMap.containsKey(Unknown Source)
+	at vazkii.quark.automation.feature.PistonsMoveTEs.onWorldTick(PistonsMoveTEs.java:53)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_747_PistonsMoveTEs_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:23:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3932ms behind, skipping 78 tick(s)
+[18:23:54] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3000568s ago."Server thread" RUNNABLE
+	at net.minecraft.network.datasync.EntityDataManager.func_187225_a(SourceFile:116)
+	at net.minecraft.entity.Entity.func_70083_f(Entity.java:2327)
+	at net.minecraft.entity.EntityLivingBase.func_184613_cA(EntityLivingBase.java:2845)
+	at net.minecraft.entity.EntityTrackerEntry.func_73122_a(EntityTrackerEntry.java:246)
+	at net.minecraft.entity.EntityTracker.func_72788_a(EntityTracker.java:292)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:777)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:02] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3034565s ago."Server thread" RUNNABLE
+	at org.cyclops.cyclopscore.modcompat.capabilities.CapabilityConstructorRegistry.onItemStackLoad(CapabilityConstructorRegistry.java:215)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_219_CapabilityConstructorRegistry_onItemStackLoad_AttachCapabilitiesEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:657)
+	at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:639)
+	at net.minecraft.item.ItemStack.forgeInit(ItemStack.java:1216)
+	at net.minecraft.item.ItemStack.<init>(ItemStack.java:112)
+	at net.minecraft.item.ItemStack.<init>(ItemStack.java:98)
+	at betterwithmods.common.items.ItemMaterial.getMaterial(ItemMaterial.java:56)
+	at betterwithmods.common.items.ItemMaterial.getMaterial(ItemMaterial.java:52)
+	at betterwithmods.event.BlastingOilEvent.lambda$onHitGround$0(BlastingOilEvent.java:62)
+	at betterwithmods.event.BlastingOilEvent$$Lambda$3179/660155750.test(Unknown Source)
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.collect(Unknown Source)
+	at betterwithmods.event.BlastingOilEvent.onHitGround(BlastingOilEvent.java:62)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_91_BlastingOilEvent_onHitGround_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:07] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3401828s ago."Server thread" RUNNABLE
+	at com.tmtravlr.jaff.JAFFEventHandler.onWorldTick(JAFFEventHandler.java:73)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1647_JAFFEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:12] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3143556s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:15] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3414755s ago."Server thread" RUNNABLE
+	at java.util.stream.ReferencePipeline$2$1.begin(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.forEach(Unknown Source)
+	at buildcraft.core.marker.volume.WorldSavedDataVolumeBoxes.tick(WorldSavedDataVolumeBoxes.java:65)
+	at buildcraft.core.BCCoreEventDist.onWorldTick(BCCoreEventDist.java:28)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_864_BCCoreEventDist_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:20] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3197148s ago."Server thread" RUNNABLE
+	at net.minecraft.nbt.NBTTagCompound.func_74771_c(NBTTagCompound.java:193)
+	at net.minecraft.nbt.NBTTagCompound.func_74767_n(NBTTagCompound.java:385)
+	at codechicken.nei.NEIServerConfig.isActionDisabled(NEIServerConfig.java:163)
+	at codechicken.nei.util.NEIServerUtils.advanceDisabledTimes(NEIServerUtils.java:117)
+	at codechicken.nei.ServerHandler.processDisabledProperties(ServerHandler.java:36)
+	at codechicken.nei.ServerHandler.tickEvent(ServerHandler.java:24)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1654_ServerHandler_tickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:24] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3169538s ago."Server thread" RUNNABLE
+	at com.google.common.collect.ImmutableSet.access$000(ImmutableSet.java:50)
+	at com.google.common.collect.ImmutableSet$Builder.build(ImmutableSet.java:551)
+	at net.minecraftforge.common.ForgeChunkManager.getPersistentChunksIterableFor(ForgeChunkManager.java:150)
+	at net.minecraft.world.World.getPersistentChunkIterable(World.java:3928)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:391)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:28] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3323411s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:31] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3345877s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1829_TickHandlerServer_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:37] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3488704s ago."Server thread" RUNNABLE
+	at net.minecraft.world.World.func_72820_D(World.java:3502)
+	at net.quetzi.morpheus.helpers.MorpheusEventHandler.worldTickEvent(MorpheusEventHandler.java:72)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1849_MorpheusEventHandler_worldTickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2704ms behind, skipping 54 tick(s)
+[18:24:41] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3412019s ago."Server thread" RUNNABLE
+	at com.tmtravlr.jaff.JAFFEventHandler.onWorldTick(JAFFEventHandler.java:73)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1647_JAFFEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:45] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3502377s ago."Server thread" RUNNABLE
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:181)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:754)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:50] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3244385s ago."Server thread" RUNNABLE
+	at java.util.TreeMap.getEntry(Unknown Source)
+	at java.util.TreeMap.get(Unknown Source)
+	at net.minecraft.world.GameRules.func_82766_b(SourceFile:87)
+	at com.tmtravlr.jaff.JAFFEventHandler.onWorldTick(JAFFEventHandler.java:72)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1647_JAFFEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:24:56] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3447069s ago."Server thread" RUNNABLE
+	at java.lang.Iterable.forEach(Unknown Source)
+	at betterwithmods.event.BlastingOilEvent.onHitGround(BlastingOilEvent.java:77)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_91_BlastingOilEvent_onHitGround_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:25:03] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3431755s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:25:09] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3388772s ago."Server thread" RUNNABLE
+	at java.util.ArrayList.removeAll(Unknown Source)
+	at com.buuz135.armoreablemobs.ArmoreableMobs.onServerTick(ArmoreableMobs.java:97)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1481_ArmoreableMobs_onServerTick_ServerTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreServerTick(FMLCommonHandler.java:278)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:655)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:25:13] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3528738s ago."Server thread" RUNNABLE
+	at codechicken.nei.NEIServerConfig.isActionDisabled(NEIServerConfig.java:163)
+	at codechicken.nei.ServerHandler.processDisabledProperties(ServerHandler.java:37)
+	at codechicken.nei.ServerHandler.tickEvent(ServerHandler.java:24)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1654_ServerHandler_tickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:25:27] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3040961s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:25:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 13054ms behind, skipping 261 tick(s)
+[18:25:36] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3506211s ago."Server thread" RUNNABLE
+	at java.util.TreeMap.getEntry(Unknown Source)
+	at java.util.TreeMap.get(Unknown Source)
+	at net.minecraft.world.GameRules.func_82766_b(SourceFile:87)
+	at com.tmtravlr.jaff.JAFFEventHandler.onWorldTick(JAFFEventHandler.java:72)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1647_JAFFEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:25:40] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3065184s ago."Server thread" RUNNABLE
+	at codechicken.nei.NEIServerConfig.isActionDisabled(NEIServerConfig.java:163)
+	at codechicken.nei.ServerHandler.processDisabledProperties(ServerHandler.java:37)
+	at codechicken.nei.ServerHandler.tickEvent(ServerHandler.java:24)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1654_ServerHandler_tickEvent_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:25:49] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3165927s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:25:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5354ms behind, skipping 107 tick(s)
+[18:25:52] [LagSpikeProfiler/INFO] [TickProfiler]: 
+The server appears to have lag spiked.
+Last tick 1.3366057s ago."Server thread" RUNNABLE
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:86)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:286)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:750)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[18:26:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2642ms behind, skipping 52 tick(s)
+[18:26:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5233ms behind, skipping 104 tick(s)
+[18:27:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2652ms behind, skipping 53 tick(s)
+[18:27:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2618ms behind, skipping 52 tick(s)
+[18:27:56] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6547ms behind, skipping 130 tick(s)
+[18:28:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2645ms behind, skipping 52 tick(s)
+[18:28:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7871ms behind, skipping 157 tick(s)
+[18:29:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2665ms behind, skipping 53 tick(s)
+[18:29:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2644ms behind, skipping 52 tick(s)
+[18:30:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3944ms behind, skipping 78 tick(s)
+[18:30:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2651ms behind, skipping 53 tick(s)
+[18:31:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2644ms behind, skipping 52 tick(s)
+[18:31:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2658ms behind, skipping 53 tick(s)
+[18:31:56] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3952ms behind, skipping 79 tick(s)
+[18:32:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3942ms behind, skipping 78 tick(s)
+[18:32:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2619ms behind, skipping 52 tick(s)
+[18:32:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3964ms behind, skipping 79 tick(s)
+[18:33:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2654ms behind, skipping 53 tick(s)
+[18:34:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5216ms behind, skipping 104 tick(s)
+[18:34:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3941ms behind, skipping 78 tick(s)
+[18:34:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2641ms behind, skipping 52 tick(s)
+[18:35:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2638ms behind, skipping 52 tick(s)
+[18:35:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2631ms behind, skipping 52 tick(s)
+[18:36:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3949ms behind, skipping 78 tick(s)
+[18:36:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2637ms behind, skipping 52 tick(s)
+[18:36:48] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3959ms behind, skipping 79 tick(s)
+[18:37:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2622ms behind, skipping 52 tick(s)
+[18:37:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3945ms behind, skipping 78 tick(s)
+[18:37:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3943ms behind, skipping 78 tick(s)
+[18:38:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6552ms behind, skipping 131 tick(s)
+[18:38:48] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3918ms behind, skipping 78 tick(s)
+[18:39:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2630ms behind, skipping 52 tick(s)
+[18:39:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2631ms behind, skipping 52 tick(s)
+[18:39:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3928ms behind, skipping 78 tick(s)
+[18:40:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3947ms behind, skipping 78 tick(s)
+[18:40:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5223ms behind, skipping 104 tick(s)
+[18:40:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3957ms behind, skipping 79 tick(s)
+[18:41:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2628ms behind, skipping 52 tick(s)
+[18:41:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2647ms behind, skipping 52 tick(s)
+[18:41:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5213ms behind, skipping 104 tick(s)
+[18:42:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2615ms behind, skipping 52 tick(s)
+[18:42:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2639ms behind, skipping 52 tick(s)
+[18:43:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3942ms behind, skipping 78 tick(s)
+[18:43:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2634ms behind, skipping 52 tick(s)
+[18:44:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2672ms behind, skipping 53 tick(s)
+[18:44:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2635ms behind, skipping 52 tick(s)
+[18:44:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3953ms behind, skipping 79 tick(s)
+[18:45:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3951ms behind, skipping 79 tick(s)
+[18:45:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2662ms behind, skipping 53 tick(s)
+[18:46:16] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2875ms behind, skipping 57 tick(s)
+[18:46:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2666ms behind, skipping 53 tick(s)
+[18:47:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2730ms behind, skipping 54 tick(s)
+[18:47:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4031ms behind, skipping 80 tick(s)
+[18:48:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5389ms behind, skipping 107 tick(s)
+[18:48:31] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2713ms behind, skipping 54 tick(s)
+[18:48:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2632ms behind, skipping 52 tick(s)
+[18:48:49] [EntityProfiler/INFO] [TickProfiler]: 
+Running EntityProfiler for 30 seconds
+[18:49:20] [EntityProfiler/INFO] [TickProfiler]: 
+TPS: 19.084581
+Single Entity | Time/Tick | %
+
+Chunk | Time/Tick | %
+
+All Entities of Type | Time/Tick | %
+
+Average Entity of Type | Time/tick | Calls
+
+[18:49:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2708ms behind, skipping 54 tick(s)
+[18:49:50] [PacketProfiler/INFO] [TickProfiler]: 
+Running PacketProfiler for 30 seconds
+[18:49:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2649ms behind, skipping 52 tick(s)
+[18:50:22] [PacketProfiler/INFO] [TickProfiler]: 
+Packet | Count | Size
+
+Packet | Count | Size
+
+[18:50:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3940ms behind, skipping 78 tick(s)
+[18:50:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2676ms behind, skipping 53 tick(s)
+[18:50:56] [UtilisationProfiler/INFO] [TickProfiler]: 
+Running UtilisationProfiler for 30 seconds
+[18:51:26] [UtilisationProfiler/INFO] [TickProfiler]: 
+          Thread | Used CPU Time (%)
+   Server thread |           676.628
+  File IO Thread |            48.152
+   DestroyJavaVM |            43.524
+AWT-EventQueue-0 |             9.152
+     AWT-Windows |             2.080
+[18:55:24] [ContentionProfiler/INFO] [TickProfiler]: 
+Running ContentionProfiler for 30 seconds
+[18:55:55] [ContentionProfiler/INFO] [TickProfiler]: 
+Monitor | Wasted Cores
+
+                                                                          Wait | Wasted Cores
+                                                  java.util.TaskQueue@28bce79c |        1.000
+                                    java.lang.ref.ReferenceQueue$Lock@2309155c |        1.000
+                                                     java.lang.Object@162a7b38 |        1.000
+java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@473990f9 |        1.000
+                                                  java.util.TaskQueue@33070c73 |        1.000
+                                                       Stack | Wasted Cores
+QueueLogAppender.getNextLogEvent -> LinkedBlockingQueue.take |        1.000
+                       DedicatedServer$1.run -> Thread.sleep |        1.000
+             ThreadedFileIOBase.func_75736_b -> Thread.sleep |        0.947
+                         MinecraftServer.run -> Thread.sleep |        0.906
