@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "2f8cda56-9e52-465f-b431-d0f112595351",
+    "name": "Temeriki",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d4c81acc-d591-41e7-b027-7bdfda0f67dd",
+    "name": "BurritoFist",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
